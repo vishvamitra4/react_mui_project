@@ -2,7 +2,7 @@
   "name": "mui",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vishvamitra4.github.io/react_frontend_mui",
+  "homepage": "https://vishvamitra4.github.io/react_mui_project",
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
